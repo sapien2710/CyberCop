@@ -1,4 +1,5 @@
-#1 Install JavaFX
+Before running this project, make sure you have the standard version of Java (JDK 1.8) running on your PC. 
+#  Install JavaFX
 1. Download the JavaFX SDK, either Windows or MacOS X, from:
 https://gluonhq.com/products/javafx/
 2. Unzip this into a directory that you'll remember for Step 5. I created a folder inside Java folder. Once 
