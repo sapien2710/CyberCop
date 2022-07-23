@@ -19,3 +19,6 @@ Arguments box. (Fig 4). Note that the path name is of those 8 jar files from ste
 8. Click Run. You should see the CyberCop wizard.
 ![htr4](https://user-images.githubusercontent.com/81070935/180624955-96c94977-bb87-4a75-9f1d-d2468ac6280a.jpg)
 
+The final document structure should look something like this:
+![htr5](https://user-images.githubusercontent.com/81070935/180625040-e04f17d8-62fd-4f9a-a997-f9c8a7960bcb.jpg)
+
